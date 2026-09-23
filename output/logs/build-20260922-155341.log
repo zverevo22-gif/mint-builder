@@ -1,0 +1,6 @@
+[1;34m[СБОРКА][0m Лог сборки: /home/alex/mint-src/output/logs/build-20260922-155341.log
+[1;34m[СБОРКА][0m === Стадия: clean (/home/alex/mint-src/scripts/07-cleanup.sh) ===
+[1;34m[СБОРКА][0m Рабочий каталог сохранён: /opt/mint-build/Alex-Mintt
+[1;34m[СБОРКА][0m Удалить вручную (после проверки результата):  rm -rf "/opt/mint-build/Alex-Mintt"
+[1;32m[ГОТОВО][0m Стадия 07 завершена.
+[1;32m[ГОТОВО][0m === Стадия 'clean' выполнена ===
